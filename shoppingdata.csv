@@ -1,0 +1,1000 @@
+User ID,Age Group,Gender,Preferred Shopping Website,Average Monthly Spend (INR),Device Used,Payment Method,Purchase Frequency,Return Rate (%),Most Purchased Category
+U8672,0-18,Male,Flipkart,5000-10000,Laptop,Cash on Delivery,Daily,10%,Groceries
+U7509,19-30,Female,Flipkart,5000-10000,Tablet,Credit Card,Daily,10%,Clothing
+U7809,19-30,Female,Myntra,10000+,Mobile,UPI,Daily,20%,Groceries
+U6241,31-50,Male,Amazon,10000+,Tablet,Cash on Delivery,Monthly,20%,Electronics
+U9702,0-18,Female,Amazon,5000-10000,Tablet,Credit Card,Monthly,10%,Groceries
+U1694,0-18,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Monthly,20%,Electronics
+U2439,31-50,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Daily,20%,Groceries
+U1957,0-18,Male,Myntra,1000-5000,Mobile,Cash on Delivery,Monthly,20%,Clothing
+U9205,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U3575,0-18,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Weekly,10%,Electronics
+U7311,31-50,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Daily,10%,Clothing
+U3839,19-30,Male,Amazon,1000-5000,Mobile,UPI,Daily,20%,Clothing
+U3870,31-50,Female,Myntra,10000+,Mobile,Cash on Delivery,Daily,20%,Electronics
+U6056,31-50,Female,Myntra,5000-10000,Laptop,UPI,Monthly,20%,Groceries
+U7714,31-50,Female,Amazon,1000-5000,Mobile,UPI,Weekly,30%,Electronics
+U1279,19-30,Male,Flipkart,1000-5000,Laptop,UPI,Weekly,20%,Clothing
+U5960,0-18,Female,Amazon,1000-5000,Mobile,Credit Card,Weekly,10%,Groceries
+U5651,31-50,Male,Flipkart,1000-5000,Mobile,UPI,Weekly,10%,Clothing
+U4093,0-18,Male,Flipkart,10000+,Laptop,UPI,Daily,10%,Groceries
+U9636,19-30,Male,Flipkart,1000-5000,Tablet,Cash on Delivery,Daily,20%,Groceries
+U8204,31-50,Female,Flipkart,5000-10000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U5763,0-18,Female,Amazon,1000-5000,Laptop,Credit Card,Weekly,10%,Clothing
+U7614,0-18,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Weekly,20%,Groceries
+U9893,31-50,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U4056,0-18,Female,Myntra,10000+,Laptop,UPI,Daily,10%,Groceries
+U2751,19-30,Male,Myntra,1000-5000,Tablet,UPI,Weekly,30%,Electronics
+U5591,19-30,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Weekly,30%,Groceries
+U5108,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Weekly,30%,Clothing
+U6966,19-30,Female,Amazon,1000-5000,Tablet,UPI,Weekly,30%,Electronics
+U4208,31-50,Male,Amazon,1000-5000,Mobile,UPI,Daily,20%,Electronics
+U7473,19-30,Male,Myntra,1000-5000,Laptop,UPI,Daily,20%,Electronics
+U6447,0-18,Male,Myntra,1000-5000,Laptop,UPI,Weekly,30%,Electronics
+U7853,31-50,Male,Amazon,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U8568,19-30,Male,Myntra,10000+,Tablet,UPI,Weekly,10%,Clothing
+U6798,31-50,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Weekly,20%,Electronics
+U3727,31-50,Male,Flipkart,10000+,Tablet,Cash on Delivery,Daily,30%,Groceries
+U1361,19-30,Male,Myntra,10000+,Tablet,Cash on Delivery,Weekly,10%,Electronics
+U6527,31-50,Male,Flipkart,10000+,Laptop,Credit Card,Daily,20%,Clothing
+U2085,0-18,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Daily,10%,Clothing
+U8984,0-18,Male,Flipkart,1000-5000,Mobile,UPI,Weekly,30%,Electronics
+U7270,31-50,Female,Flipkart,1000-5000,Laptop,Credit Card,Monthly,10%,Clothing
+U6595,19-30,Male,Flipkart,1000-5000,Mobile,Credit Card,Daily,10%,Groceries
+U1187,31-50,Male,Flipkart,5000-10000,Tablet,Credit Card,Monthly,30%,Groceries
+U6306,0-18,Female,Amazon,5000-10000,Laptop,Credit Card,Daily,30%,Electronics
+U3760,31-50,Male,Myntra,10000+,Mobile,Cash on Delivery,Daily,10%,Groceries
+U1028,0-18,Male,Amazon,1000-5000,Laptop,UPI,Monthly,20%,Electronics
+U2996,31-50,Male,Myntra,5000-10000,Laptop,Credit Card,Daily,30%,Electronics
+U6696,31-50,Female,Myntra,1000-5000,Mobile,UPI,Monthly,20%,Electronics
+U3100,0-18,Female,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Clothing
+U7088,19-30,Female,Myntra,1000-5000,Mobile,UPI,Daily,10%,Clothing
+U4877,31-50,Female,Flipkart,1000-5000,Tablet,Cash on Delivery,Weekly,30%,Electronics
+U9636,0-18,Male,Amazon,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U6912,0-18,Female,Amazon,1000-5000,Tablet,Credit Card,Weekly,30%,Groceries
+U4052,19-30,Male,Flipkart,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U9155,31-50,Male,Myntra,5000-10000,Laptop,Credit Card,Monthly,30%,Groceries
+U4254,0-18,Male,Amazon,5000-10000,Mobile,Credit Card,Weekly,10%,Groceries
+U5977,0-18,Male,Amazon,10000+,Tablet,Credit Card,Monthly,10%,Groceries
+U9299,19-30,Male,Flipkart,10000+,Mobile,Cash on Delivery,Weekly,10%,Electronics
+U9089,31-50,Male,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,30%,Clothing
+U9716,19-30,Female,Amazon,5000-10000,Laptop,UPI,Daily,30%,Clothing
+U7199,0-18,Male,Amazon,5000-10000,Laptop,Credit Card,Daily,30%,Electronics
+U4997,19-30,Female,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,20%,Electronics
+U5141,0-18,Female,Flipkart,1000-5000,Tablet,Credit Card,Monthly,20%,Clothing
+U6027,31-50,Male,Myntra,5000-10000,Laptop,UPI,Monthly,30%,Clothing
+U8021,19-30,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,20%,Clothing
+U9981,0-18,Male,Myntra,1000-5000,Laptop,Credit Card,Weekly,10%,Groceries
+U2321,19-30,Male,Flipkart,1000-5000,Laptop,UPI,Weekly,20%,Clothing
+U1509,0-18,Female,Flipkart,10000+,Tablet,Cash on Delivery,Monthly,20%,Clothing
+U7306,19-30,Female,Amazon,5000-10000,Laptop,UPI,Monthly,10%,Clothing
+U6252,19-30,Female,Myntra,1000-5000,Mobile,UPI,Weekly,20%,Electronics
+U4039,19-30,Female,Amazon,5000-10000,Tablet,Credit Card,Monthly,30%,Groceries
+U4438,19-30,Female,Amazon,1000-5000,Laptop,Credit Card,Weekly,20%,Electronics
+U2622,0-18,Male,Flipkart,10000+,Laptop,Credit Card,Daily,20%,Electronics
+U8023,19-30,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Daily,30%,Groceries
+U5939,0-18,Male,Myntra,1000-5000,Laptop,UPI,Weekly,20%,Groceries
+U2463,31-50,Female,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,30%,Groceries
+U9478,31-50,Female,Flipkart,10000+,Laptop,UPI,Monthly,30%,Electronics
+U6108,19-30,Female,Myntra,5000-10000,Mobile,Credit Card,Monthly,10%,Groceries
+U9424,19-30,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Clothing
+U1347,0-18,Male,Amazon,5000-10000,Laptop,UPI,Daily,30%,Groceries
+U9538,31-50,Female,Myntra,10000+,Mobile,Cash on Delivery,Monthly,10%,Groceries
+U4664,31-50,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Monthly,10%,Clothing
+U5872,31-50,Female,Myntra,10000+,Laptop,UPI,Weekly,30%,Clothing
+U9076,19-30,Male,Myntra,5000-10000,Mobile,UPI,Monthly,10%,Groceries
+U9023,31-50,Male,Myntra,5000-10000,Mobile,UPI,Monthly,10%,Electronics
+U2990,31-50,Female,Flipkart,10000+,Laptop,UPI,Weekly,10%,Electronics
+U9906,31-50,Male,Flipkart,10000+,Mobile,Cash on Delivery,Monthly,20%,Clothing
+U8085,0-18,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Weekly,30%,Electronics
+U5096,31-50,Male,Amazon,1000-5000,Tablet,UPI,Weekly,20%,Clothing
+U7845,19-30,Male,Flipkart,5000-10000,Laptop,Credit Card,Monthly,20%,Clothing
+U1214,31-50,Male,Amazon,5000-10000,Mobile,Credit Card,Weekly,30%,Groceries
+U6405,31-50,Male,Myntra,5000-10000,Laptop,Credit Card,Weekly,10%,Groceries
+U8655,0-18,Female,Amazon,5000-10000,Laptop,Credit Card,Weekly,30%,Electronics
+U9585,19-30,Male,Flipkart,10000+,Laptop,UPI,Weekly,20%,Groceries
+U6120,0-18,Male,Myntra,5000-10000,Tablet,UPI,Weekly,30%,Clothing
+U2762,19-30,Male,Myntra,10000+,Tablet,Credit Card,Weekly,20%,Groceries
+U5441,0-18,Female,Amazon,5000-10000,Tablet,UPI,Monthly,20%,Electronics
+U8343,31-50,Female,Amazon,1000-5000,Laptop,UPI,Daily,20%,Clothing
+U8766,19-30,Female,Amazon,5000-10000,Mobile,Credit Card,Weekly,20%,Clothing
+U1041,19-30,Female,Amazon,1000-5000,Tablet,Credit Card,Weekly,10%,Clothing
+U6639,19-30,Male,Myntra,5000-10000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U5843,0-18,Female,Myntra,10000+,Mobile,UPI,Monthly,20%,Groceries
+U9212,31-50,Male,Myntra,10000+,Tablet,UPI,Monthly,30%,Groceries
+U4343,31-50,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Monthly,30%,Groceries
+U6790,19-30,Female,Flipkart,1000-5000,Laptop,UPI,Monthly,20%,Groceries
+U8238,19-30,Male,Flipkart,5000-10000,Laptop,UPI,Monthly,10%,Clothing
+U5202,31-50,Male,Amazon,10000+,Laptop,UPI,Weekly,30%,Clothing
+U2839,19-30,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Monthly,10%,Electronics
+U7113,19-30,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Weekly,30%,Clothing
+U1159,0-18,Male,Flipkart,5000-10000,Mobile,Credit Card,Weekly,30%,Clothing
+U8402,19-30,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Weekly,20%,Clothing
+U2140,0-18,Male,Amazon,10000+,Tablet,UPI,Weekly,30%,Groceries
+U7633,19-30,Female,Myntra,1000-5000,Laptop,UPI,Monthly,20%,Clothing
+U9600,0-18,Male,Flipkart,10000+,Mobile,Credit Card,Monthly,20%,Electronics
+U4546,31-50,Female,Myntra,1000-5000,Tablet,UPI,Daily,10%,Clothing
+U7647,19-30,Male,Amazon,10000+,Laptop,Credit Card,Weekly,30%,Clothing
+U1703,31-50,Male,Myntra,10000+,Laptop,Cash on Delivery,Weekly,20%,Electronics
+U6024,19-30,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Daily,30%,Groceries
+U3881,19-30,Female,Amazon,1000-5000,Tablet,UPI,Daily,10%,Groceries
+U1478,0-18,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U6512,0-18,Female,Flipkart,1000-5000,Tablet,UPI,Monthly,10%,Clothing
+U5318,19-30,Male,Myntra,5000-10000,Mobile,UPI,Weekly,10%,Clothing
+U5307,31-50,Female,Myntra,10000+,Tablet,UPI,Daily,10%,Clothing
+U7455,19-30,Female,Flipkart,1000-5000,Tablet,Cash on Delivery,Daily,20%,Clothing
+U5272,0-18,Male,Amazon,10000+,Tablet,Cash on Delivery,Monthly,30%,Clothing
+U5481,19-30,Female,Amazon,5000-10000,Laptop,UPI,Monthly,10%,Groceries
+U5013,31-50,Female,Flipkart,10000+,Laptop,Credit Card,Daily,30%,Groceries
+U2447,31-50,Female,Myntra,5000-10000,Laptop,Credit Card,Monthly,10%,Clothing
+U9095,31-50,Female,Flipkart,5000-10000,Tablet,UPI,Weekly,10%,Groceries
+U3523,19-30,Female,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,30%,Clothing
+U6021,0-18,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Groceries
+U6204,19-30,Male,Amazon,10000+,Tablet,Credit Card,Monthly,20%,Clothing
+U1498,31-50,Male,Amazon,5000-10000,Tablet,Credit Card,Daily,20%,Groceries
+U6384,31-50,Male,Myntra,10000+,Tablet,Credit Card,Weekly,20%,Groceries
+U1423,31-50,Female,Flipkart,1000-5000,Laptop,Cash on Delivery,Monthly,30%,Groceries
+U2055,0-18,Male,Myntra,10000+,Laptop,Credit Card,Daily,10%,Groceries
+U2103,0-18,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U7259,31-50,Female,Amazon,10000+,Laptop,UPI,Weekly,20%,Groceries
+U7912,31-50,Male,Flipkart,10000+,Tablet,Cash on Delivery,Daily,10%,Electronics
+U1824,0-18,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Daily,30%,Groceries
+U4867,19-30,Male,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Groceries
+U9607,19-30,Male,Amazon,10000+,Tablet,UPI,Daily,30%,Groceries
+U5549,19-30,Male,Amazon,10000+,Mobile,Cash on Delivery,Daily,20%,Electronics
+U8535,19-30,Male,Flipkart,10000+,Laptop,Credit Card,Daily,30%,Electronics
+U1268,31-50,Female,Amazon,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Groceries
+U8325,19-30,Male,Flipkart,1000-5000,Tablet,Credit Card,Weekly,10%,Groceries
+U1227,31-50,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,10%,Clothing
+U7601,19-30,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Monthly,20%,Electronics
+U5816,0-18,Male,Flipkart,5000-10000,Tablet,Credit Card,Weekly,20%,Groceries
+U3306,31-50,Male,Myntra,5000-10000,Mobile,UPI,Weekly,30%,Electronics
+U7357,0-18,Male,Flipkart,10000+,Laptop,Credit Card,Daily,10%,Electronics
+U5466,19-30,Male,Flipkart,10000+,Laptop,Cash on Delivery,Monthly,10%,Groceries
+U2529,31-50,Male,Flipkart,10000+,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U5399,31-50,Female,Myntra,5000-10000,Tablet,UPI,Monthly,30%,Groceries
+U6093,31-50,Female,Myntra,1000-5000,Tablet,UPI,Weekly,30%,Electronics
+U3247,31-50,Female,Flipkart,10000+,Tablet,Credit Card,Daily,20%,Electronics
+U1589,19-30,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Daily,30%,Electronics
+U2898,31-50,Male,Flipkart,10000+,Laptop,Cash on Delivery,Weekly,10%,Electronics
+U7885,31-50,Female,Myntra,5000-10000,Mobile,Credit Card,Weekly,30%,Groceries
+U5692,31-50,Female,Amazon,1000-5000,Mobile,UPI,Monthly,30%,Groceries
+U2777,31-50,Male,Flipkart,1000-5000,Laptop,UPI,Daily,10%,Clothing
+U7118,0-18,Female,Amazon,1000-5000,Tablet,Credit Card,Monthly,10%,Clothing
+U7249,19-30,Female,Flipkart,1000-5000,Mobile,Credit Card,Monthly,20%,Electronics
+U2210,19-30,Female,Flipkart,5000-10000,Mobile,Credit Card,Monthly,30%,Electronics
+U5106,0-18,Female,Flipkart,10000+,Mobile,UPI,Monthly,10%,Groceries
+U4409,31-50,Female,Myntra,10000+,Laptop,Credit Card,Weekly,10%,Groceries
+U5270,0-18,Male,Flipkart,10000+,Mobile,Cash on Delivery,Weekly,10%,Electronics
+U9292,19-30,Male,Amazon,1000-5000,Laptop,UPI,Monthly,10%,Clothing
+U5669,31-50,Male,Amazon,10000+,Laptop,Cash on Delivery,Monthly,30%,Electronics
+U5541,31-50,Male,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U3198,0-18,Male,Flipkart,5000-10000,Laptop,Credit Card,Daily,10%,Clothing
+U1811,0-18,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Monthly,20%,Electronics
+U9242,19-30,Male,Myntra,10000+,Laptop,UPI,Daily,10%,Groceries
+U3820,19-30,Male,Myntra,1000-5000,Mobile,Credit Card,Monthly,20%,Groceries
+U8963,19-30,Male,Flipkart,1000-5000,Mobile,Credit Card,Daily,30%,Groceries
+U4624,31-50,Female,Amazon,10000+,Tablet,UPI,Daily,10%,Groceries
+U8596,31-50,Male,Amazon,1000-5000,Laptop,Credit Card,Weekly,20%,Groceries
+U7368,19-30,Female,Myntra,5000-10000,Mobile,Credit Card,Weekly,10%,Electronics
+U2037,0-18,Female,Myntra,1000-5000,Laptop,Cash on Delivery,Weekly,30%,Electronics
+U8018,31-50,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Daily,10%,Electronics
+U3222,31-50,Male,Flipkart,5000-10000,Laptop,UPI,Monthly,20%,Clothing
+U7234,31-50,Female,Amazon,1000-5000,Tablet,Cash on Delivery,Weekly,30%,Clothing
+U9990,0-18,Female,Amazon,10000+,Laptop,Cash on Delivery,Monthly,20%,Electronics
+U2526,31-50,Female,Amazon,5000-10000,Mobile,Credit Card,Weekly,10%,Groceries
+U6267,31-50,Female,Flipkart,5000-10000,Mobile,Credit Card,Daily,30%,Clothing
+U5908,31-50,Female,Myntra,5000-10000,Tablet,UPI,Weekly,20%,Clothing
+U6042,19-30,Female,Amazon,1000-5000,Tablet,Credit Card,Monthly,20%,Electronics
+U6332,0-18,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U9482,0-18,Female,Flipkart,10000+,Laptop,Credit Card,Weekly,10%,Electronics
+U2103,31-50,Male,Amazon,1000-5000,Tablet,Credit Card,Daily,20%,Clothing
+U3748,31-50,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Electronics
+U3286,19-30,Female,Flipkart,1000-5000,Laptop,Credit Card,Weekly,10%,Groceries
+U1452,0-18,Male,Myntra,1000-5000,Laptop,UPI,Weekly,20%,Electronics
+U4826,19-30,Female,Amazon,1000-5000,Tablet,UPI,Daily,30%,Clothing
+U5471,0-18,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Daily,10%,Clothing
+U5497,19-30,Male,Myntra,5000-10000,Mobile,UPI,Weekly,10%,Electronics
+U6865,19-30,Female,Amazon,10000+,Tablet,Cash on Delivery,Monthly,30%,Electronics
+U4481,31-50,Male,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,30%,Clothing
+U3686,31-50,Female,Myntra,10000+,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U5988,19-30,Male,Amazon,5000-10000,Mobile,Credit Card,Daily,20%,Groceries
+U7381,19-30,Male,Amazon,5000-10000,Mobile,UPI,Daily,10%,Clothing
+U8692,0-18,Male,Myntra,5000-10000,Tablet,UPI,Weekly,10%,Electronics
+U8527,31-50,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Monthly,20%,Electronics
+U8093,19-30,Male,Amazon,10000+,Mobile,UPI,Monthly,10%,Clothing
+U1101,19-30,Male,Amazon,5000-10000,Laptop,UPI,Weekly,10%,Groceries
+U9227,31-50,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Groceries
+U5199,31-50,Male,Amazon,1000-5000,Laptop,Credit Card,Monthly,30%,Clothing
+U2610,0-18,Male,Amazon,1000-5000,Mobile,Cash on Delivery,Monthly,20%,Groceries
+U5514,31-50,Female,Myntra,10000+,Tablet,Credit Card,Daily,10%,Clothing
+U9082,19-30,Female,Amazon,10000+,Mobile,Credit Card,Daily,30%,Clothing
+U3036,19-30,Male,Amazon,5000-10000,Tablet,Cash on Delivery,Daily,20%,Groceries
+U4059,19-30,Female,Myntra,5000-10000,Laptop,Credit Card,Daily,10%,Groceries
+U6011,19-30,Male,Amazon,10000+,Laptop,Credit Card,Monthly,10%,Clothing
+U9017,19-30,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Weekly,30%,Electronics
+U5780,19-30,Male,Amazon,5000-10000,Laptop,Credit Card,Monthly,10%,Groceries
+U8726,19-30,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Electronics
+U3801,19-30,Male,Amazon,10000+,Laptop,Cash on Delivery,Daily,30%,Electronics
+U2112,0-18,Female,Myntra,5000-10000,Tablet,UPI,Monthly,30%,Groceries
+U8245,0-18,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U1547,31-50,Female,Myntra,5000-10000,Tablet,Credit Card,Monthly,30%,Groceries
+U6926,0-18,Female,Amazon,1000-5000,Tablet,UPI,Weekly,20%,Clothing
+U8534,31-50,Male,Myntra,10000+,Laptop,UPI,Weekly,20%,Clothing
+U7960,31-50,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Daily,10%,Clothing
+U8084,31-50,Male,Myntra,10000+,Laptop,Credit Card,Daily,10%,Groceries
+U2279,31-50,Male,Flipkart,1000-5000,Tablet,UPI,Daily,30%,Groceries
+U5148,31-50,Female,Flipkart,5000-10000,Laptop,UPI,Daily,10%,Electronics
+U5731,31-50,Female,Flipkart,1000-5000,Mobile,UPI,Weekly,30%,Groceries
+U9223,19-30,Male,Flipkart,10000+,Tablet,Cash on Delivery,Monthly,20%,Electronics
+U7326,0-18,Female,Amazon,10000+,Mobile,Credit Card,Daily,10%,Electronics
+U2705,31-50,Female,Flipkart,1000-5000,Mobile,UPI,Weekly,10%,Groceries
+U1927,19-30,Male,Amazon,10000+,Mobile,Cash on Delivery,Daily,30%,Clothing
+U9877,19-30,Female,Flipkart,10000+,Laptop,UPI,Monthly,20%,Electronics
+U8115,0-18,Female,Myntra,1000-5000,Laptop,Credit Card,Weekly,30%,Electronics
+U3585,19-30,Female,Amazon,10000+,Tablet,UPI,Daily,30%,Clothing
+U5303,19-30,Male,Myntra,10000+,Tablet,Credit Card,Monthly,30%,Electronics
+U6836,31-50,Female,Flipkart,5000-10000,Tablet,UPI,Daily,20%,Clothing
+U1807,31-50,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Monthly,30%,Clothing
+U1198,0-18,Female,Myntra,1000-5000,Laptop,Credit Card,Monthly,30%,Clothing
+U4294,31-50,Male,Flipkart,5000-10000,Mobile,UPI,Weekly,10%,Clothing
+U8087,19-30,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Monthly,10%,Clothing
+U3236,0-18,Female,Myntra,1000-5000,Tablet,UPI,Monthly,10%,Groceries
+U4078,19-30,Male,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,10%,Clothing
+U3705,19-30,Female,Amazon,1000-5000,Tablet,Credit Card,Monthly,30%,Electronics
+U9315,0-18,Male,Flipkart,10000+,Laptop,Credit Card,Monthly,30%,Clothing
+U7853,19-30,Female,Amazon,10000+,Laptop,Credit Card,Monthly,10%,Groceries
+U5218,0-18,Male,Flipkart,1000-5000,Tablet,UPI,Daily,30%,Clothing
+U7793,19-30,Male,Myntra,10000+,Laptop,UPI,Monthly,20%,Groceries
+U8575,31-50,Female,Flipkart,10000+,Mobile,UPI,Weekly,20%,Groceries
+U8824,0-18,Female,Myntra,1000-5000,Laptop,UPI,Weekly,30%,Clothing
+U7313,19-30,Female,Amazon,5000-10000,Mobile,Credit Card,Weekly,20%,Groceries
+U7344,0-18,Male,Amazon,1000-5000,Laptop,Credit Card,Weekly,10%,Clothing
+U1528,0-18,Female,Myntra,5000-10000,Tablet,UPI,Monthly,30%,Groceries
+U8447,31-50,Male,Flipkart,1000-5000,Laptop,Credit Card,Monthly,10%,Clothing
+U2565,0-18,Female,Myntra,10000+,Laptop,Credit Card,Daily,10%,Electronics
+U8881,19-30,Male,Myntra,5000-10000,Mobile,Credit Card,Monthly,10%,Clothing
+U6843,31-50,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Weekly,10%,Clothing
+U6283,0-18,Female,Myntra,5000-10000,Mobile,Credit Card,Monthly,10%,Electronics
+U8366,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Daily,10%,Clothing
+U2445,19-30,Female,Myntra,5000-10000,Mobile,UPI,Daily,10%,Groceries
+U2511,31-50,Male,Amazon,5000-10000,Mobile,Credit Card,Daily,10%,Electronics
+U8292,0-18,Male,Flipkart,1000-5000,Tablet,Credit Card,Monthly,10%,Clothing
+U2062,19-30,Female,Flipkart,5000-10000,Mobile,UPI,Daily,20%,Clothing
+U4959,19-30,Male,Flipkart,5000-10000,Mobile,UPI,Monthly,20%,Clothing
+U8588,0-18,Female,Myntra,10000+,Mobile,Credit Card,Monthly,20%,Electronics
+U7615,31-50,Female,Flipkart,1000-5000,Mobile,UPI,Monthly,10%,Electronics
+U8831,0-18,Male,Flipkart,5000-10000,Tablet,Credit Card,Monthly,30%,Clothing
+U9415,0-18,Female,Amazon,1000-5000,Laptop,UPI,Daily,30%,Electronics
+U2558,31-50,Female,Amazon,10000+,Laptop,UPI,Monthly,10%,Electronics
+U1511,0-18,Female,Amazon,10000+,Tablet,Credit Card,Monthly,10%,Clothing
+U3784,19-30,Male,Myntra,10000+,Laptop,Cash on Delivery,Daily,30%,Groceries
+U1051,31-50,Female,Myntra,5000-10000,Tablet,UPI,Weekly,20%,Groceries
+U9741,19-30,Male,Amazon,1000-5000,Mobile,UPI,Daily,30%,Electronics
+U7873,19-30,Male,Flipkart,1000-5000,Tablet,Cash on Delivery,Weekly,10%,Clothing
+U1635,19-30,Female,Flipkart,1000-5000,Tablet,UPI,Daily,20%,Clothing
+U7225,19-30,Male,Flipkart,5000-10000,Laptop,UPI,Weekly,20%,Clothing
+U9734,19-30,Female,Myntra,10000+,Tablet,Credit Card,Monthly,20%,Electronics
+U2149,0-18,Male,Amazon,1000-5000,Mobile,UPI,Daily,10%,Electronics
+U9320,0-18,Male,Amazon,10000+,Tablet,UPI,Daily,10%,Clothing
+U2715,0-18,Female,Flipkart,5000-10000,Mobile,UPI,Monthly,10%,Electronics
+U4670,19-30,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,30%,Groceries
+U9963,19-30,Female,Flipkart,1000-5000,Laptop,UPI,Weekly,30%,Electronics
+U8970,0-18,Male,Flipkart,1000-5000,Mobile,UPI,Weekly,10%,Electronics
+U2736,31-50,Female,Myntra,5000-10000,Tablet,Cash on Delivery,Weekly,20%,Groceries
+U1021,19-30,Male,Flipkart,10000+,Tablet,UPI,Weekly,30%,Electronics
+U7109,0-18,Male,Flipkart,10000+,Mobile,UPI,Daily,30%,Groceries
+U7254,0-18,Female,Myntra,10000+,Laptop,Cash on Delivery,Monthly,20%,Electronics
+U9410,0-18,Male,Flipkart,10000+,Mobile,Cash on Delivery,Monthly,10%,Clothing
+U5893,19-30,Male,Amazon,1000-5000,Mobile,UPI,Monthly,10%,Groceries
+U8812,0-18,Female,Amazon,10000+,Mobile,Cash on Delivery,Weekly,30%,Electronics
+U7076,0-18,Male,Amazon,10000+,Mobile,Credit Card,Monthly,10%,Electronics
+U1758,19-30,Male,Myntra,5000-10000,Tablet,Credit Card,Weekly,10%,Groceries
+U9459,31-50,Female,Flipkart,10000+,Mobile,UPI,Monthly,30%,Electronics
+U6524,19-30,Female,Amazon,5000-10000,Tablet,Credit Card,Weekly,20%,Electronics
+U3154,0-18,Male,Amazon,10000+,Laptop,UPI,Monthly,10%,Groceries
+U2719,19-30,Male,Amazon,10000+,Tablet,Credit Card,Weekly,10%,Electronics
+U4912,19-30,Female,Flipkart,10000+,Laptop,UPI,Monthly,30%,Electronics
+U7127,19-30,Female,Myntra,10000+,Laptop,Credit Card,Daily,20%,Electronics
+U6993,0-18,Female,Amazon,10000+,Tablet,UPI,Weekly,20%,Clothing
+U4041,19-30,Female,Amazon,10000+,Tablet,Cash on Delivery,Monthly,10%,Groceries
+U7717,19-30,Male,Amazon,10000+,Tablet,UPI,Weekly,10%,Clothing
+U5490,0-18,Male,Myntra,1000-5000,Laptop,UPI,Daily,20%,Clothing
+U2293,0-18,Male,Flipkart,10000+,Mobile,UPI,Weekly,10%,Groceries
+U9275,31-50,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Monthly,30%,Clothing
+U7403,19-30,Female,Flipkart,1000-5000,Mobile,Credit Card,Weekly,10%,Electronics
+U1535,19-30,Male,Flipkart,1000-5000,Laptop,UPI,Daily,30%,Clothing
+U1330,31-50,Female,Myntra,1000-5000,Mobile,Credit Card,Weekly,30%,Groceries
+U4144,31-50,Male,Myntra,1000-5000,Mobile,Credit Card,Monthly,10%,Electronics
+U8508,0-18,Male,Myntra,5000-10000,Tablet,Credit Card,Daily,10%,Clothing
+U5955,31-50,Female,Flipkart,5000-10000,Laptop,Credit Card,Monthly,20%,Groceries
+U1447,0-18,Female,Flipkart,5000-10000,Laptop,Credit Card,Weekly,10%,Groceries
+U5374,31-50,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,30%,Groceries
+U2690,19-30,Male,Amazon,5000-10000,Laptop,Credit Card,Daily,20%,Groceries
+U2898,31-50,Female,Amazon,1000-5000,Tablet,Cash on Delivery,Daily,20%,Electronics
+U2702,19-30,Male,Amazon,1000-5000,Mobile,Credit Card,Weekly,10%,Electronics
+U4941,0-18,Female,Myntra,10000+,Mobile,UPI,Daily,10%,Clothing
+U5639,0-18,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Monthly,30%,Electronics
+U4606,31-50,Male,Myntra,5000-10000,Laptop,UPI,Monthly,20%,Groceries
+U3071,19-30,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Weekly,20%,Groceries
+U3331,31-50,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,10%,Groceries
+U8916,19-30,Male,Myntra,10000+,Laptop,UPI,Weekly,20%,Electronics
+U3726,0-18,Female,Flipkart,1000-5000,Tablet,UPI,Weekly,20%,Clothing
+U5071,31-50,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Monthly,30%,Electronics
+U1460,19-30,Male,Amazon,5000-10000,Mobile,UPI,Daily,20%,Electronics
+U2856,0-18,Female,Amazon,1000-5000,Mobile,UPI,Weekly,30%,Groceries
+U6921,31-50,Male,Flipkart,10000+,Laptop,UPI,Weekly,30%,Groceries
+U5934,0-18,Male,Myntra,10000+,Laptop,UPI,Weekly,10%,Groceries
+U3270,0-18,Male,Flipkart,1000-5000,Tablet,Cash on Delivery,Daily,20%,Groceries
+U8858,31-50,Female,Flipkart,10000+,Mobile,UPI,Weekly,20%,Electronics
+U7191,31-50,Male,Flipkart,1000-5000,Tablet,Cash on Delivery,Weekly,20%,Groceries
+U1841,0-18,Male,Myntra,1000-5000,Laptop,Credit Card,Monthly,10%,Electronics
+U9438,0-18,Female,Myntra,5000-10000,Laptop,UPI,Monthly,10%,Groceries
+U8868,0-18,Female,Myntra,1000-5000,Laptop,UPI,Monthly,10%,Clothing
+U6420,0-18,Male,Myntra,10000+,Laptop,Credit Card,Weekly,20%,Groceries
+U9210,19-30,Female,Myntra,1000-5000,Laptop,UPI,Daily,30%,Clothing
+U7313,0-18,Female,Myntra,10000+,Laptop,Credit Card,Daily,30%,Groceries
+U8061,19-30,Male,Myntra,5000-10000,Mobile,Credit Card,Monthly,10%,Clothing
+U3521,19-30,Female,Myntra,1000-5000,Tablet,Credit Card,Weekly,10%,Groceries
+U6207,0-18,Male,Flipkart,1000-5000,Mobile,UPI,Monthly,20%,Electronics
+U3352,0-18,Male,Flipkart,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U4301,31-50,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Weekly,30%,Electronics
+U2539,19-30,Female,Amazon,1000-5000,Tablet,Cash on Delivery,Weekly,30%,Electronics
+U3625,31-50,Male,Amazon,1000-5000,Tablet,Credit Card,Daily,20%,Groceries
+U9388,0-18,Female,Flipkart,5000-10000,Mobile,UPI,Weekly,20%,Groceries
+U9351,19-30,Male,Amazon,1000-5000,Laptop,UPI,Monthly,20%,Clothing
+U4997,31-50,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Monthly,10%,Clothing
+U4525,19-30,Female,Flipkart,10000+,Laptop,Cash on Delivery,Monthly,10%,Clothing
+U3808,0-18,Male,Myntra,5000-10000,Mobile,UPI,Weekly,20%,Clothing
+U7143,31-50,Female,Amazon,1000-5000,Laptop,Credit Card,Weekly,20%,Electronics
+U3799,31-50,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U9739,31-50,Male,Amazon,1000-5000,Laptop,Credit Card,Daily,20%,Clothing
+U1909,19-30,Male,Amazon,10000+,Mobile,UPI,Daily,10%,Electronics
+U6564,0-18,Male,Amazon,10000+,Mobile,Credit Card,Weekly,30%,Groceries
+U4068,31-50,Female,Myntra,10000+,Tablet,UPI,Monthly,30%,Electronics
+U9830,19-30,Female,Flipkart,5000-10000,Mobile,Credit Card,Daily,10%,Groceries
+U9109,31-50,Male,Myntra,1000-5000,Mobile,Cash on Delivery,Daily,30%,Electronics
+U1441,0-18,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Daily,20%,Electronics
+U4333,31-50,Male,Flipkart,10000+,Laptop,UPI,Weekly,10%,Groceries
+U3998,0-18,Male,Myntra,5000-10000,Tablet,UPI,Daily,30%,Electronics
+U6438,19-30,Male,Myntra,5000-10000,Laptop,UPI,Daily,20%,Electronics
+U8027,31-50,Female,Myntra,10000+,Laptop,Credit Card,Weekly,10%,Electronics
+U4829,31-50,Male,Flipkart,5000-10000,Tablet,Credit Card,Weekly,20%,Electronics
+U8693,31-50,Female,Myntra,5000-10000,Laptop,Credit Card,Weekly,20%,Groceries
+U7067,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Daily,30%,Electronics
+U3470,0-18,Male,Myntra,5000-10000,Mobile,UPI,Weekly,30%,Clothing
+U4608,0-18,Female,Flipkart,1000-5000,Mobile,Credit Card,Weekly,30%,Groceries
+U4331,19-30,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Daily,10%,Groceries
+U9041,31-50,Female,Myntra,5000-10000,Tablet,Credit Card,Monthly,30%,Clothing
+U8825,0-18,Female,Flipkart,5000-10000,Mobile,UPI,Weekly,20%,Groceries
+U7735,0-18,Female,Flipkart,1000-5000,Laptop,UPI,Weekly,20%,Groceries
+U1958,0-18,Female,Flipkart,1000-5000,Laptop,UPI,Weekly,10%,Electronics
+U4124,19-30,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Daily,10%,Electronics
+U9920,19-30,Female,Flipkart,10000+,Mobile,Credit Card,Monthly,20%,Clothing
+U5015,0-18,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Daily,20%,Electronics
+U2232,0-18,Male,Myntra,10000+,Mobile,Credit Card,Monthly,20%,Groceries
+U6178,19-30,Female,Flipkart,5000-10000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U9918,31-50,Female,Amazon,10000+,Laptop,UPI,Weekly,20%,Clothing
+U2485,19-30,Male,Amazon,5000-10000,Tablet,Cash on Delivery,Weekly,20%,Electronics
+U5193,0-18,Female,Amazon,1000-5000,Laptop,Credit Card,Daily,10%,Electronics
+U3015,31-50,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U1082,0-18,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Daily,10%,Groceries
+U7283,19-30,Female,Flipkart,1000-5000,Laptop,Credit Card,Monthly,20%,Clothing
+U2733,19-30,Female,Myntra,10000+,Mobile,UPI,Daily,30%,Clothing
+U7015,0-18,Male,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U4465,31-50,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Daily,30%,Electronics
+U2856,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Weekly,20%,Groceries
+U9651,19-30,Female,Amazon,5000-10000,Mobile,Credit Card,Monthly,20%,Clothing
+U1498,0-18,Male,Amazon,10000+,Laptop,Credit Card,Weekly,30%,Clothing
+U3379,19-30,Male,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Groceries
+U7625,31-50,Female,Myntra,5000-10000,Laptop,UPI,Weekly,30%,Electronics
+U8155,0-18,Male,Myntra,1000-5000,Tablet,Credit Card,Daily,10%,Groceries
+U3347,19-30,Male,Flipkart,5000-10000,Mobile,UPI,Weekly,10%,Electronics
+U4690,19-30,Female,Amazon,1000-5000,Mobile,Credit Card,Monthly,30%,Groceries
+U6878,19-30,Male,Flipkart,5000-10000,Laptop,UPI,Weekly,20%,Electronics
+U9279,0-18,Female,Flipkart,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U2670,19-30,Female,Amazon,1000-5000,Laptop,Credit Card,Monthly,30%,Electronics
+U4673,0-18,Male,Flipkart,1000-5000,Mobile,UPI,Monthly,10%,Groceries
+U6111,19-30,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Daily,30%,Electronics
+U6285,19-30,Male,Amazon,1000-5000,Tablet,Credit Card,Weekly,30%,Electronics
+U8549,31-50,Female,Flipkart,5000-10000,Laptop,Credit Card,Daily,20%,Electronics
+U8279,0-18,Female,Amazon,10000+,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U7314,31-50,Female,Flipkart,5000-10000,Mobile,Credit Card,Weekly,10%,Clothing
+U5303,19-30,Male,Myntra,10000+,Tablet,Credit Card,Daily,20%,Groceries
+U5756,0-18,Female,Myntra,10000+,Laptop,UPI,Monthly,20%,Clothing
+U4397,31-50,Female,Flipkart,1000-5000,Mobile,Credit Card,Monthly,10%,Groceries
+U8730,0-18,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Monthly,20%,Groceries
+U1579,0-18,Female,Flipkart,1000-5000,Mobile,Credit Card,Weekly,20%,Electronics
+U8724,19-30,Female,Myntra,10000+,Mobile,UPI,Daily,30%,Electronics
+U5342,31-50,Female,Flipkart,10000+,Laptop,Cash on Delivery,Daily,20%,Electronics
+U4925,19-30,Female,Amazon,10000+,Tablet,UPI,Weekly,10%,Clothing
+U9505,31-50,Female,Flipkart,10000+,Laptop,Cash on Delivery,Monthly,30%,Electronics
+U2628,19-30,Female,Flipkart,10000+,Laptop,Credit Card,Monthly,10%,Clothing
+U9736,19-30,Male,Amazon,10000+,Laptop,Credit Card,Daily,20%,Electronics
+U8213,0-18,Female,Flipkart,10000+,Tablet,UPI,Monthly,10%,Electronics
+U8849,31-50,Male,Amazon,10000+,Laptop,Credit Card,Weekly,20%,Clothing
+U7905,0-18,Male,Myntra,10000+,Tablet,Cash on Delivery,Monthly,20%,Electronics
+U1633,19-30,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,20%,Electronics
+U2087,0-18,Female,Amazon,10000+,Laptop,Cash on Delivery,Daily,10%,Groceries
+U7653,31-50,Male,Amazon,10000+,Laptop,Cash on Delivery,Weekly,30%,Clothing
+U6641,31-50,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,10%,Clothing
+U5430,19-30,Female,Myntra,10000+,Laptop,Credit Card,Weekly,30%,Groceries
+U7497,19-30,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U5909,31-50,Male,Flipkart,1000-5000,Tablet,UPI,Weekly,10%,Electronics
+U2274,0-18,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,10%,Electronics
+U4657,31-50,Female,Amazon,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U5545,0-18,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U6519,0-18,Male,Flipkart,5000-10000,Mobile,UPI,Monthly,30%,Groceries
+U3368,19-30,Male,Amazon,1000-5000,Tablet,Credit Card,Daily,10%,Groceries
+U2221,0-18,Male,Amazon,1000-5000,Tablet,Cash on Delivery,Daily,20%,Clothing
+U9620,31-50,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U5932,31-50,Female,Flipkart,10000+,Laptop,Cash on Delivery,Weekly,10%,Groceries
+U1751,0-18,Female,Amazon,1000-5000,Tablet,Credit Card,Weekly,30%,Electronics
+U4339,19-30,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,30%,Groceries
+U9237,19-30,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,30%,Electronics
+U8715,19-30,Female,Myntra,5000-10000,Mobile,Credit Card,Monthly,20%,Groceries
+U8419,0-18,Male,Myntra,5000-10000,Mobile,Credit Card,Monthly,20%,Clothing
+U5166,19-30,Female,Myntra,10000+,Mobile,UPI,Weekly,20%,Clothing
+U2366,0-18,Female,Flipkart,5000-10000,Mobile,UPI,Weekly,20%,Clothing
+U7851,19-30,Female,Flipkart,1000-5000,Laptop,Cash on Delivery,Monthly,20%,Electronics
+U3883,19-30,Male,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,20%,Clothing
+U4687,19-30,Female,Amazon,5000-10000,Laptop,UPI,Monthly,20%,Clothing
+U2573,0-18,Female,Myntra,1000-5000,Laptop,Cash on Delivery,Daily,20%,Clothing
+U3249,31-50,Male,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U4292,19-30,Male,Flipkart,10000+,Mobile,UPI,Weekly,20%,Electronics
+U8171,0-18,Male,Amazon,1000-5000,Tablet,Credit Card,Monthly,20%,Electronics
+U6148,19-30,Male,Amazon,5000-10000,Mobile,Credit Card,Monthly,30%,Groceries
+U7886,19-30,Female,Flipkart,1000-5000,Tablet,Credit Card,Daily,10%,Groceries
+U3726,31-50,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Weekly,10%,Groceries
+U2179,19-30,Male,Flipkart,5000-10000,Mobile,Credit Card,Monthly,20%,Electronics
+U2276,31-50,Female,Flipkart,1000-5000,Mobile,Credit Card,Monthly,30%,Groceries
+U7268,31-50,Male,Flipkart,5000-10000,Mobile,UPI,Monthly,10%,Electronics
+U8424,19-30,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Daily,30%,Clothing
+U4216,19-30,Female,Flipkart,1000-5000,Laptop,Credit Card,Monthly,30%,Electronics
+U8600,19-30,Male,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U8211,19-30,Female,Flipkart,1000-5000,Tablet,Cash on Delivery,Weekly,20%,Clothing
+U6590,31-50,Female,Flipkart,1000-5000,Tablet,UPI,Weekly,20%,Electronics
+U1579,0-18,Male,Amazon,5000-10000,Laptop,UPI,Daily,30%,Clothing
+U6463,19-30,Female,Flipkart,10000+,Tablet,Cash on Delivery,Daily,30%,Groceries
+U7465,19-30,Female,Amazon,10000+,Tablet,UPI,Monthly,30%,Electronics
+U6442,31-50,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U4604,31-50,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Daily,20%,Groceries
+U8532,31-50,Male,Flipkart,10000+,Laptop,Credit Card,Monthly,20%,Electronics
+U7322,31-50,Male,Myntra,10000+,Mobile,UPI,Daily,20%,Groceries
+U1981,31-50,Male,Flipkart,10000+,Mobile,UPI,Weekly,20%,Groceries
+U7510,19-30,Female,Amazon,5000-10000,Laptop,Credit Card,Weekly,20%,Groceries
+U9143,19-30,Female,Flipkart,5000-10000,Tablet,UPI,Monthly,30%,Groceries
+U2151,19-30,Female,Amazon,10000+,Tablet,Cash on Delivery,Daily,10%,Groceries
+U1586,31-50,Female,Flipkart,1000-5000,Mobile,Credit Card,Monthly,10%,Electronics
+U5878,31-50,Female,Amazon,1000-5000,Tablet,Credit Card,Daily,10%,Groceries
+U9339,0-18,Female,Myntra,10000+,Tablet,Cash on Delivery,Daily,30%,Electronics
+U1453,31-50,Female,Flipkart,10000+,Mobile,UPI,Daily,20%,Groceries
+U9405,19-30,Female,Amazon,10000+,Mobile,UPI,Daily,10%,Electronics
+U6965,0-18,Male,Flipkart,10000+,Tablet,UPI,Monthly,30%,Groceries
+U1530,0-18,Male,Amazon,5000-10000,Laptop,UPI,Daily,10%,Groceries
+U4734,31-50,Male,Amazon,10000+,Laptop,UPI,Weekly,20%,Groceries
+U7992,19-30,Female,Amazon,5000-10000,Mobile,UPI,Daily,20%,Clothing
+U6545,31-50,Female,Amazon,5000-10000,Laptop,Cash on Delivery,Monthly,10%,Clothing
+U7334,19-30,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U9797,31-50,Male,Amazon,10000+,Tablet,Credit Card,Weekly,10%,Groceries
+U2934,0-18,Male,Flipkart,10000+,Laptop,UPI,Weekly,30%,Electronics
+U3308,0-18,Male,Amazon,10000+,Tablet,Credit Card,Daily,30%,Groceries
+U3803,19-30,Male,Flipkart,10000+,Mobile,Credit Card,Daily,10%,Electronics
+U3212,19-30,Female,Myntra,1000-5000,Mobile,UPI,Weekly,10%,Electronics
+U5566,19-30,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Daily,10%,Clothing
+U2200,19-30,Male,Amazon,1000-5000,Tablet,UPI,Monthly,10%,Clothing
+U7504,0-18,Male,Flipkart,5000-10000,Tablet,Credit Card,Monthly,10%,Groceries
+U4575,0-18,Male,Flipkart,5000-10000,Tablet,UPI,Weekly,10%,Electronics
+U5582,19-30,Male,Myntra,10000+,Mobile,Credit Card,Monthly,30%,Groceries
+U6443,0-18,Female,Flipkart,10000+,Laptop,UPI,Weekly,30%,Electronics
+U3476,31-50,Male,Amazon,10000+,Tablet,UPI,Monthly,30%,Groceries
+U5325,31-50,Male,Myntra,10000+,Laptop,Credit Card,Weekly,30%,Clothing
+U3080,19-30,Female,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U8297,19-30,Female,Flipkart,10000+,Tablet,UPI,Monthly,10%,Groceries
+U7644,0-18,Male,Amazon,1000-5000,Tablet,Credit Card,Daily,20%,Electronics
+U3885,0-18,Male,Myntra,10000+,Laptop,UPI,Daily,10%,Electronics
+U4837,19-30,Female,Myntra,5000-10000,Tablet,Cash on Delivery,Weekly,20%,Electronics
+U9821,0-18,Female,Myntra,5000-10000,Tablet,Credit Card,Weekly,10%,Electronics
+U1910,31-50,Male,Myntra,5000-10000,Tablet,Credit Card,Daily,10%,Clothing
+U9594,19-30,Male,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Groceries
+U3765,31-50,Female,Amazon,1000-5000,Laptop,UPI,Monthly,10%,Electronics
+U1314,31-50,Female,Amazon,10000+,Tablet,UPI,Monthly,20%,Clothing
+U8337,19-30,Male,Flipkart,1000-5000,Tablet,Cash on Delivery,Weekly,30%,Electronics
+U8291,0-18,Female,Flipkart,5000-10000,Laptop,UPI,Weekly,30%,Electronics
+U9774,0-18,Female,Myntra,1000-5000,Mobile,Credit Card,Daily,30%,Groceries
+U8600,31-50,Male,Amazon,1000-5000,Mobile,Credit Card,Weekly,10%,Clothing
+U2631,31-50,Male,Amazon,10000+,Tablet,Credit Card,Daily,30%,Clothing
+U1641,19-30,Female,Flipkart,10000+,Mobile,Cash on Delivery,Weekly,10%,Clothing
+U4071,31-50,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Groceries
+U2214,0-18,Female,Flipkart,10000+,Tablet,Cash on Delivery,Monthly,10%,Groceries
+U9972,0-18,Female,Flipkart,10000+,Mobile,Credit Card,Daily,20%,Clothing
+U7571,31-50,Female,Myntra,10000+,Mobile,Cash on Delivery,Daily,30%,Groceries
+U2322,19-30,Male,Amazon,10000+,Laptop,Cash on Delivery,Daily,10%,Electronics
+U1580,31-50,Female,Amazon,10000+,Laptop,UPI,Weekly,10%,Clothing
+U4494,19-30,Female,Amazon,5000-10000,Tablet,UPI,Daily,30%,Groceries
+U1277,0-18,Male,Flipkart,1000-5000,Laptop,Credit Card,Monthly,20%,Groceries
+U9354,31-50,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Weekly,10%,Electronics
+U1783,0-18,Female,Flipkart,10000+,Tablet,UPI,Daily,10%,Clothing
+U4632,0-18,Male,Flipkart,1000-5000,Tablet,Cash on Delivery,Weekly,20%,Groceries
+U5300,19-30,Male,Flipkart,10000+,Tablet,UPI,Weekly,30%,Groceries
+U2941,31-50,Female,Flipkart,1000-5000,Mobile,Credit Card,Weekly,20%,Electronics
+U1120,0-18,Male,Flipkart,5000-10000,Tablet,Cash on Delivery,Daily,30%,Groceries
+U3798,19-30,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Groceries
+U4084,31-50,Female,Flipkart,10000+,Laptop,Cash on Delivery,Daily,30%,Groceries
+U7578,0-18,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,10%,Clothing
+U9568,31-50,Male,Flipkart,5000-10000,Mobile,UPI,Weekly,30%,Electronics
+U1483,19-30,Male,Flipkart,10000+,Tablet,Cash on Delivery,Daily,10%,Groceries
+U4186,31-50,Male,Myntra,10000+,Mobile,UPI,Monthly,20%,Clothing
+U5361,0-18,Male,Amazon,10000+,Laptop,Credit Card,Weekly,20%,Clothing
+U9420,19-30,Female,Myntra,10000+,Mobile,Credit Card,Monthly,30%,Groceries
+U9376,19-30,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,30%,Electronics
+U5942,19-30,Female,Amazon,10000+,Mobile,Cash on Delivery,Monthly,10%,Clothing
+U4061,19-30,Female,Flipkart,10000+,Mobile,UPI,Monthly,10%,Electronics
+U6484,0-18,Female,Myntra,5000-10000,Laptop,Credit Card,Daily,20%,Electronics
+U6146,0-18,Male,Myntra,10000+,Laptop,UPI,Monthly,20%,Groceries
+U7677,31-50,Female,Myntra,5000-10000,Mobile,Credit Card,Weekly,10%,Groceries
+U2276,31-50,Female,Myntra,5000-10000,Tablet,Credit Card,Weekly,10%,Electronics
+U2062,19-30,Male,Flipkart,10000+,Tablet,UPI,Daily,30%,Groceries
+U4365,19-30,Male,Amazon,5000-10000,Mobile,Credit Card,Monthly,20%,Groceries
+U8710,0-18,Male,Amazon,5000-10000,Mobile,Cash on Delivery,Weekly,20%,Electronics
+U3535,31-50,Male,Flipkart,1000-5000,Laptop,UPI,Weekly,10%,Electronics
+U7924,0-18,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,20%,Groceries
+U9046,31-50,Male,Amazon,1000-5000,Laptop,Credit Card,Daily,20%,Electronics
+U8906,0-18,Male,Amazon,10000+,Mobile,Credit Card,Monthly,20%,Electronics
+U7415,0-18,Female,Amazon,1000-5000,Tablet,UPI,Daily,20%,Groceries
+U7099,0-18,Male,Myntra,1000-5000,Mobile,Credit Card,Daily,10%,Electronics
+U8770,19-30,Female,Amazon,10000+,Laptop,Cash on Delivery,Daily,10%,Electronics
+U6897,0-18,Female,Flipkart,5000-10000,Mobile,Cash on Delivery,Monthly,30%,Groceries
+U3734,19-30,Male,Flipkart,10000+,Mobile,Credit Card,Daily,20%,Clothing
+U4088,31-50,Male,Amazon,1000-5000,Mobile,UPI,Monthly,20%,Clothing
+U7055,31-50,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Weekly,10%,Groceries
+U8684,0-18,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Weekly,30%,Groceries
+U6476,31-50,Female,Myntra,10000+,Mobile,Credit Card,Weekly,10%,Clothing
+U2829,0-18,Male,Flipkart,5000-10000,Mobile,UPI,Weekly,20%,Electronics
+U5818,19-30,Female,Myntra,10000+,Laptop,Cash on Delivery,Weekly,30%,Groceries
+U1353,19-30,Female,Myntra,5000-10000,Mobile,UPI,Daily,30%,Groceries
+U2640,0-18,Female,Myntra,1000-5000,Laptop,Cash on Delivery,Daily,10%,Groceries
+U4268,31-50,Male,Flipkart,10000+,Tablet,Cash on Delivery,Weekly,10%,Clothing
+U8957,0-18,Male,Flipkart,10000+,Tablet,UPI,Monthly,20%,Groceries
+U9073,0-18,Female,Flipkart,5000-10000,Mobile,Credit Card,Daily,10%,Groceries
+U1499,19-30,Male,Myntra,1000-5000,Laptop,Cash on Delivery,Monthly,10%,Groceries
+U3900,19-30,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,30%,Clothing
+U6014,31-50,Female,Amazon,10000+,Mobile,Cash on Delivery,Monthly,30%,Electronics
+U4054,31-50,Female,Myntra,10000+,Laptop,Credit Card,Weekly,10%,Electronics
+U6524,31-50,Female,Myntra,5000-10000,Tablet,UPI,Monthly,20%,Clothing
+U5879,19-30,Female,Amazon,1000-5000,Mobile,Credit Card,Weekly,10%,Clothing
+U5255,0-18,Female,Myntra,10000+,Mobile,UPI,Daily,20%,Electronics
+U6172,19-30,Female,Myntra,10000+,Mobile,Cash on Delivery,Daily,10%,Electronics
+U5460,31-50,Male,Amazon,10000+,Tablet,Cash on Delivery,Monthly,30%,Groceries
+U8491,19-30,Female,Myntra,1000-5000,Laptop,Credit Card,Weekly,20%,Groceries
+U6247,31-50,Female,Myntra,5000-10000,Tablet,Credit Card,Weekly,10%,Electronics
+U9952,19-30,Male,Amazon,5000-10000,Mobile,Credit Card,Monthly,10%,Electronics
+U1761,31-50,Male,Amazon,1000-5000,Laptop,Credit Card,Monthly,10%,Groceries
+U9143,0-18,Female,Myntra,10000+,Laptop,UPI,Monthly,10%,Electronics
+U9375,19-30,Female,Flipkart,10000+,Laptop,Credit Card,Monthly,20%,Clothing
+U7805,19-30,Male,Amazon,1000-5000,Laptop,Credit Card,Monthly,30%,Electronics
+U2378,0-18,Male,Amazon,1000-5000,Laptop,Credit Card,Daily,20%,Groceries
+U9846,0-18,Female,Amazon,1000-5000,Laptop,UPI,Daily,20%,Electronics
+U9123,31-50,Female,Amazon,10000+,Tablet,Credit Card,Weekly,30%,Electronics
+U4670,0-18,Female,Myntra,1000-5000,Tablet,Credit Card,Daily,30%,Clothing
+U2654,0-18,Female,Amazon,5000-10000,Mobile,Credit Card,Daily,10%,Clothing
+U1094,31-50,Male,Amazon,5000-10000,Mobile,UPI,Weekly,30%,Electronics
+U6309,31-50,Female,Flipkart,10000+,Mobile,UPI,Weekly,10%,Groceries
+U1773,19-30,Female,Amazon,5000-10000,Tablet,Credit Card,Monthly,30%,Clothing
+U6290,19-30,Female,Flipkart,10000+,Mobile,Credit Card,Daily,10%,Clothing
+U3667,31-50,Male,Amazon,1000-5000,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U7923,31-50,Female,Myntra,5000-10000,Laptop,Credit Card,Weekly,20%,Clothing
+U5088,19-30,Male,Amazon,10000+,Laptop,Credit Card,Weekly,10%,Clothing
+U6092,19-30,Male,Flipkart,5000-10000,Laptop,Credit Card,Monthly,30%,Clothing
+U6028,19-30,Male,Amazon,10000+,Tablet,Credit Card,Daily,20%,Groceries
+U8648,19-30,Male,Myntra,10000+,Mobile,UPI,Weekly,30%,Electronics
+U8798,31-50,Male,Flipkart,5000-10000,Laptop,Credit Card,Weekly,20%,Electronics
+U9779,31-50,Male,Myntra,10000+,Tablet,Credit Card,Daily,30%,Clothing
+U9620,31-50,Female,Amazon,1000-5000,Mobile,UPI,Monthly,30%,Clothing
+U8280,0-18,Female,Myntra,10000+,Laptop,UPI,Daily,10%,Groceries
+U3047,31-50,Male,Amazon,10000+,Tablet,Credit Card,Daily,20%,Clothing
+U2584,31-50,Male,Amazon,5000-10000,Tablet,Cash on Delivery,Weekly,20%,Electronics
+U2823,31-50,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U7575,19-30,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Monthly,30%,Groceries
+U4229,0-18,Female,Flipkart,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U9230,31-50,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,20%,Clothing
+U1956,31-50,Female,Myntra,10000+,Tablet,UPI,Daily,20%,Groceries
+U8678,31-50,Male,Amazon,10000+,Mobile,Credit Card,Weekly,20%,Groceries
+U6616,19-30,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U2360,19-30,Male,Flipkart,5000-10000,Laptop,Credit Card,Monthly,10%,Groceries
+U8561,19-30,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Monthly,20%,Clothing
+U6089,0-18,Male,Myntra,5000-10000,Laptop,Credit Card,Monthly,10%,Groceries
+U9190,19-30,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Groceries
+U8432,0-18,Male,Myntra,10000+,Laptop,Credit Card,Daily,20%,Electronics
+U4035,31-50,Male,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U8187,31-50,Female,Flipkart,1000-5000,Tablet,UPI,Weekly,30%,Clothing
+U5135,31-50,Male,Amazon,10000+,Mobile,Credit Card,Monthly,10%,Groceries
+U8878,19-30,Female,Myntra,5000-10000,Laptop,Credit Card,Weekly,20%,Clothing
+U1257,19-30,Male,Amazon,1000-5000,Tablet,Cash on Delivery,Daily,30%,Electronics
+U2922,19-30,Female,Flipkart,5000-10000,Tablet,Credit Card,Daily,30%,Groceries
+U8951,31-50,Male,Flipkart,1000-5000,Laptop,UPI,Daily,30%,Groceries
+U1922,19-30,Male,Amazon,10000+,Tablet,Credit Card,Monthly,20%,Electronics
+U9536,19-30,Male,Amazon,5000-10000,Mobile,UPI,Weekly,20%,Clothing
+U9728,19-30,Female,Flipkart,5000-10000,Mobile,Cash on Delivery,Monthly,20%,Groceries
+U1288,0-18,Male,Flipkart,5000-10000,Laptop,Credit Card,Daily,10%,Groceries
+U7217,0-18,Female,Amazon,5000-10000,Laptop,Credit Card,Daily,30%,Clothing
+U2154,0-18,Female,Amazon,1000-5000,Tablet,Credit Card,Monthly,20%,Groceries
+U7683,31-50,Female,Amazon,1000-5000,Tablet,Credit Card,Weekly,30%,Clothing
+U9302,31-50,Female,Amazon,1000-5000,Mobile,Credit Card,Weekly,30%,Clothing
+U7399,31-50,Male,Flipkart,10000+,Laptop,Credit Card,Daily,10%,Groceries
+U2254,31-50,Male,Myntra,10000+,Tablet,UPI,Daily,10%,Clothing
+U4547,19-30,Female,Flipkart,10000+,Laptop,Credit Card,Daily,10%,Groceries
+U4503,19-30,Male,Flipkart,5000-10000,Laptop,Credit Card,Daily,20%,Clothing
+U9133,0-18,Male,Myntra,5000-10000,Laptop,Credit Card,Monthly,10%,Electronics
+U1021,0-18,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,10%,Groceries
+U3968,19-30,Female,Amazon,5000-10000,Laptop,Cash on Delivery,Monthly,10%,Groceries
+U8012,19-30,Male,Flipkart,1000-5000,Tablet,Credit Card,Monthly,10%,Electronics
+U9300,31-50,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Monthly,20%,Clothing
+U5777,0-18,Female,Myntra,1000-5000,Tablet,UPI,Weekly,10%,Electronics
+U5931,31-50,Female,Amazon,1000-5000,Mobile,Credit Card,Weekly,30%,Clothing
+U5030,31-50,Female,Amazon,10000+,Tablet,Credit Card,Monthly,30%,Clothing
+U6902,31-50,Male,Myntra,1000-5000,Tablet,Credit Card,Daily,10%,Clothing
+U5286,31-50,Male,Myntra,5000-10000,Tablet,Credit Card,Weekly,30%,Electronics
+U7931,19-30,Female,Flipkart,1000-5000,Laptop,Credit Card,Daily,30%,Groceries
+U5519,31-50,Female,Myntra,10000+,Tablet,UPI,Weekly,30%,Electronics
+U7347,0-18,Male,Flipkart,5000-10000,Mobile,UPI,Monthly,20%,Electronics
+U2511,31-50,Female,Myntra,5000-10000,Mobile,UPI,Weekly,20%,Clothing
+U1114,19-30,Male,Myntra,1000-5000,Mobile,Credit Card,Weekly,20%,Clothing
+U7696,19-30,Male,Flipkart,5000-10000,Laptop,UPI,Daily,20%,Electronics
+U9350,31-50,Male,Amazon,10000+,Tablet,Cash on Delivery,Monthly,30%,Clothing
+U7837,31-50,Female,Myntra,10000+,Laptop,Cash on Delivery,Daily,20%,Groceries
+U2046,31-50,Male,Flipkart,10000+,Laptop,UPI,Weekly,10%,Groceries
+U9806,0-18,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Daily,30%,Electronics
+U1236,31-50,Male,Myntra,5000-10000,Laptop,UPI,Daily,30%,Groceries
+U8226,0-18,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U1427,31-50,Female,Myntra,10000+,Laptop,UPI,Monthly,20%,Groceries
+U8744,0-18,Male,Myntra,1000-5000,Mobile,Cash on Delivery,Weekly,30%,Electronics
+U6629,19-30,Female,Amazon,10000+,Tablet,Cash on Delivery,Weekly,20%,Electronics
+U6597,19-30,Male,Myntra,10000+,Laptop,UPI,Daily,10%,Electronics
+U6730,19-30,Female,Myntra,10000+,Tablet,UPI,Daily,20%,Groceries
+U8734,19-30,Female,Amazon,10000+,Laptop,Cash on Delivery,Daily,20%,Groceries
+U8442,19-30,Female,Flipkart,10000+,Tablet,Cash on Delivery,Weekly,30%,Groceries
+U3567,31-50,Male,Flipkart,1000-5000,Laptop,UPI,Daily,10%,Groceries
+U2923,31-50,Male,Flipkart,10000+,Tablet,UPI,Weekly,10%,Clothing
+U2114,31-50,Female,Myntra,1000-5000,Tablet,Credit Card,Daily,30%,Electronics
+U3761,0-18,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,30%,Groceries
+U6916,31-50,Male,Amazon,10000+,Mobile,Cash on Delivery,Daily,10%,Clothing
+U4042,19-30,Female,Myntra,5000-10000,Laptop,Credit Card,Daily,30%,Electronics
+U7103,31-50,Female,Myntra,1000-5000,Laptop,Credit Card,Monthly,10%,Clothing
+U8544,31-50,Male,Amazon,1000-5000,Tablet,Credit Card,Daily,10%,Groceries
+U4072,0-18,Female,Myntra,5000-10000,Mobile,Credit Card,Monthly,10%,Electronics
+U5472,0-18,Female,Amazon,5000-10000,Tablet,UPI,Weekly,20%,Groceries
+U8417,0-18,Female,Flipkart,10000+,Mobile,Cash on Delivery,Monthly,30%,Clothing
+U8432,31-50,Male,Amazon,5000-10000,Laptop,Credit Card,Daily,20%,Groceries
+U2024,0-18,Female,Flipkart,10000+,Laptop,Credit Card,Daily,10%,Electronics
+U7595,31-50,Female,Amazon,1000-5000,Tablet,Credit Card,Weekly,20%,Clothing
+U5823,19-30,Female,Flipkart,10000+,Tablet,Credit Card,Daily,10%,Clothing
+U3178,19-30,Female,Amazon,1000-5000,Mobile,UPI,Weekly,10%,Electronics
+U7372,19-30,Male,Amazon,10000+,Mobile,UPI,Monthly,20%,Electronics
+U5469,0-18,Male,Myntra,5000-10000,Tablet,Credit Card,Daily,30%,Clothing
+U3158,31-50,Female,Myntra,1000-5000,Mobile,Credit Card,Monthly,30%,Clothing
+U1940,19-30,Female,Myntra,5000-10000,Mobile,Credit Card,Daily,30%,Clothing
+U9811,31-50,Male,Flipkart,5000-10000,Laptop,Credit Card,Monthly,30%,Electronics
+U3100,19-30,Female,Amazon,10000+,Laptop,UPI,Daily,20%,Groceries
+U2404,31-50,Female,Amazon,10000+,Laptop,Cash on Delivery,Weekly,20%,Groceries
+U5670,0-18,Male,Amazon,10000+,Tablet,Credit Card,Monthly,20%,Electronics
+U3970,19-30,Male,Flipkart,1000-5000,Laptop,Credit Card,Daily,20%,Electronics
+U8906,19-30,Male,Amazon,5000-10000,Tablet,UPI,Weekly,30%,Electronics
+U5601,19-30,Female,Amazon,5000-10000,Mobile,UPI,Daily,20%,Groceries
+U9963,31-50,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,10%,Clothing
+U4907,19-30,Male,Flipkart,5000-10000,Mobile,Credit Card,Weekly,10%,Clothing
+U7175,0-18,Male,Amazon,10000+,Tablet,UPI,Monthly,10%,Electronics
+U5511,31-50,Male,Myntra,10000+,Mobile,Credit Card,Weekly,10%,Clothing
+U6322,0-18,Male,Flipkart,10000+,Tablet,UPI,Monthly,30%,Electronics
+U3554,0-18,Female,Amazon,1000-5000,Tablet,Credit Card,Monthly,30%,Clothing
+U2244,19-30,Male,Myntra,5000-10000,Mobile,Credit Card,Monthly,10%,Electronics
+U1786,19-30,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Monthly,30%,Electronics
+U3884,0-18,Female,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,20%,Electronics
+U4744,31-50,Male,Myntra,1000-5000,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U9357,19-30,Male,Flipkart,1000-5000,Laptop,Credit Card,Monthly,10%,Groceries
+U6435,31-50,Male,Flipkart,5000-10000,Tablet,Credit Card,Daily,20%,Groceries
+U3366,19-30,Male,Flipkart,10000+,Mobile,UPI,Weekly,10%,Clothing
+U1253,19-30,Male,Myntra,5000-10000,Mobile,UPI,Daily,30%,Groceries
+U1487,0-18,Female,Myntra,10000+,Tablet,UPI,Weekly,20%,Clothing
+U3321,31-50,Male,Amazon,10000+,Tablet,Credit Card,Daily,20%,Groceries
+U5787,0-18,Male,Flipkart,10000+,Mobile,Cash on Delivery,Monthly,30%,Clothing
+U1300,31-50,Male,Flipkart,5000-10000,Tablet,Credit Card,Weekly,10%,Groceries
+U1296,19-30,Male,Amazon,1000-5000,Laptop,UPI,Weekly,30%,Electronics
+U4729,0-18,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U6050,19-30,Female,Flipkart,1000-5000,Laptop,UPI,Monthly,10%,Electronics
+U3658,31-50,Female,Myntra,1000-5000,Laptop,Cash on Delivery,Daily,30%,Groceries
+U6608,31-50,Female,Myntra,5000-10000,Laptop,UPI,Daily,30%,Groceries
+U7941,0-18,Female,Amazon,5000-10000,Laptop,UPI,Daily,10%,Electronics
+U8600,0-18,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Monthly,30%,Groceries
+U9806,0-18,Male,Flipkart,10000+,Laptop,Credit Card,Weekly,20%,Electronics
+U6560,19-30,Male,Myntra,5000-10000,Mobile,Cash on Delivery,Weekly,20%,Electronics
+U7013,0-18,Female,Amazon,1000-5000,Tablet,UPI,Weekly,30%,Clothing
+U7586,19-30,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Weekly,20%,Clothing
+U7973,0-18,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Monthly,30%,Electronics
+U8652,31-50,Male,Flipkart,10000+,Laptop,Cash on Delivery,Weekly,20%,Groceries
+U2225,0-18,Female,Amazon,1000-5000,Mobile,Credit Card,Daily,20%,Electronics
+U1977,31-50,Female,Amazon,10000+,Mobile,UPI,Daily,30%,Groceries
+U9646,31-50,Female,Myntra,10000+,Mobile,Cash on Delivery,Monthly,30%,Clothing
+U1374,31-50,Male,Myntra,1000-5000,Tablet,UPI,Weekly,20%,Electronics
+U4431,19-30,Female,Myntra,1000-5000,Mobile,UPI,Monthly,20%,Groceries
+U3587,0-18,Male,Myntra,5000-10000,Mobile,Credit Card,Daily,30%,Electronics
+U9724,0-18,Male,Myntra,5000-10000,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U5289,31-50,Female,Amazon,5000-10000,Laptop,UPI,Daily,20%,Electronics
+U2565,31-50,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Weekly,10%,Electronics
+U6228,31-50,Male,Amazon,10000+,Mobile,UPI,Daily,30%,Clothing
+U8842,19-30,Female,Myntra,5000-10000,Tablet,Credit Card,Monthly,10%,Clothing
+U9528,31-50,Female,Myntra,5000-10000,Tablet,Cash on Delivery,Daily,20%,Clothing
+U6636,19-30,Male,Myntra,1000-5000,Tablet,Credit Card,Weekly,20%,Electronics
+U5069,31-50,Male,Myntra,1000-5000,Mobile,Credit Card,Daily,20%,Clothing
+U7400,0-18,Female,Amazon,5000-10000,Tablet,Credit Card,Weekly,20%,Clothing
+U5505,31-50,Female,Amazon,1000-5000,Tablet,Credit Card,Monthly,10%,Clothing
+U5893,31-50,Female,Flipkart,1000-5000,Tablet,UPI,Daily,20%,Groceries
+U1391,0-18,Male,Flipkart,5000-10000,Tablet,Credit Card,Weekly,10%,Groceries
+U9606,31-50,Male,Flipkart,5000-10000,Tablet,Credit Card,Weekly,20%,Groceries
+U7080,31-50,Male,Myntra,10000+,Mobile,UPI,Daily,20%,Groceries
+U1891,0-18,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Daily,20%,Electronics
+U8749,0-18,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Weekly,10%,Electronics
+U5653,0-18,Male,Amazon,10000+,Laptop,UPI,Monthly,10%,Clothing
+U3822,19-30,Male,Amazon,5000-10000,Mobile,Credit Card,Monthly,30%,Groceries
+U4324,19-30,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,20%,Clothing
+U6717,31-50,Female,Amazon,10000+,Mobile,UPI,Weekly,10%,Electronics
+U3776,19-30,Male,Flipkart,5000-10000,Laptop,UPI,Monthly,10%,Electronics
+U2005,19-30,Male,Myntra,10000+,Tablet,UPI,Weekly,20%,Clothing
+U2562,19-30,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Weekly,30%,Clothing
+U7828,31-50,Female,Amazon,10000+,Mobile,Credit Card,Monthly,30%,Groceries
+U1217,31-50,Male,Flipkart,5000-10000,Mobile,UPI,Daily,20%,Clothing
+U4255,31-50,Male,Myntra,1000-5000,Mobile,Cash on Delivery,Monthly,20%,Groceries
+U6485,31-50,Male,Myntra,5000-10000,Tablet,Credit Card,Monthly,10%,Clothing
+U2556,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Daily,30%,Groceries
+U2552,19-30,Male,Myntra,5000-10000,Mobile,Credit Card,Weekly,10%,Clothing
+U8253,0-18,Male,Myntra,1000-5000,Mobile,Cash on Delivery,Monthly,30%,Groceries
+U8817,19-30,Female,Flipkart,10000+,Tablet,UPI,Monthly,20%,Electronics
+U4590,31-50,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U6054,31-50,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,20%,Groceries
+U1800,31-50,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Daily,30%,Electronics
+U5026,31-50,Female,Myntra,5000-10000,Mobile,Credit Card,Daily,20%,Groceries
+U1112,0-18,Female,Flipkart,10000+,Tablet,UPI,Weekly,10%,Electronics
+U3394,31-50,Male,Flipkart,10000+,Laptop,Credit Card,Daily,30%,Clothing
+U5483,31-50,Male,Flipkart,1000-5000,Mobile,Cash on Delivery,Monthly,10%,Electronics
+U5506,0-18,Male,Myntra,10000+,Tablet,Cash on Delivery,Monthly,20%,Groceries
+U3360,19-30,Male,Myntra,5000-10000,Tablet,UPI,Daily,30%,Clothing
+U9050,0-18,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,30%,Groceries
+U2367,31-50,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Daily,20%,Clothing
+U9356,19-30,Female,Flipkart,1000-5000,Mobile,Credit Card,Daily,30%,Electronics
+U3270,0-18,Female,Amazon,1000-5000,Tablet,UPI,Monthly,10%,Groceries
+U9120,0-18,Male,Amazon,5000-10000,Mobile,Credit Card,Weekly,30%,Groceries
+U2529,31-50,Male,Amazon,1000-5000,Tablet,UPI,Weekly,20%,Electronics
+U8618,0-18,Female,Myntra,5000-10000,Mobile,Cash on Delivery,Daily,30%,Groceries
+U6623,31-50,Female,Amazon,10000+,Tablet,UPI,Weekly,30%,Clothing
+U9776,31-50,Male,Myntra,1000-5000,Laptop,UPI,Weekly,20%,Electronics
+U2790,0-18,Male,Myntra,10000+,Laptop,Cash on Delivery,Monthly,30%,Clothing
+U8217,31-50,Female,Amazon,10000+,Mobile,UPI,Daily,30%,Clothing
+U4405,19-30,Female,Flipkart,10000+,Laptop,Credit Card,Weekly,30%,Groceries
+U5338,19-30,Male,Myntra,5000-10000,Mobile,UPI,Monthly,10%,Clothing
+U5831,31-50,Female,Flipkart,1000-5000,Tablet,UPI,Daily,10%,Groceries
+U2505,0-18,Female,Flipkart,5000-10000,Tablet,Credit Card,Weekly,10%,Clothing
+U3443,31-50,Male,Amazon,10000+,Tablet,Cash on Delivery,Weekly,20%,Electronics
+U2238,31-50,Female,Myntra,10000+,Tablet,Credit Card,Daily,30%,Groceries
+U8527,0-18,Male,Flipkart,5000-10000,Mobile,Credit Card,Daily,20%,Clothing
+U7474,0-18,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Electronics
+U7304,0-18,Female,Myntra,5000-10000,Mobile,Credit Card,Weekly,30%,Groceries
+U9965,31-50,Male,Myntra,10000+,Tablet,UPI,Weekly,20%,Groceries
+U9519,0-18,Male,Flipkart,1000-5000,Tablet,Credit Card,Weekly,20%,Electronics
+U1946,31-50,Female,Amazon,5000-10000,Tablet,Credit Card,Monthly,10%,Electronics
+U5162,31-50,Female,Myntra,1000-5000,Mobile,Cash on Delivery,Daily,20%,Clothing
+U2336,31-50,Male,Myntra,5000-10000,Tablet,UPI,Monthly,20%,Clothing
+U1753,19-30,Male,Amazon,1000-5000,Tablet,Credit Card,Weekly,20%,Clothing
+U1617,0-18,Male,Myntra,10000+,Tablet,Credit Card,Weekly,10%,Clothing
+U1189,31-50,Female,Myntra,10000+,Laptop,Credit Card,Weekly,20%,Clothing
+U3870,19-30,Female,Myntra,5000-10000,Tablet,Credit Card,Daily,30%,Electronics
+U5935,31-50,Female,Flipkart,5000-10000,Tablet,UPI,Daily,10%,Electronics
+U6263,31-50,Male,Flipkart,10000+,Mobile,Cash on Delivery,Daily,30%,Groceries
+U2357,0-18,Male,Amazon,5000-10000,Laptop,Credit Card,Monthly,10%,Groceries
+U1850,0-18,Female,Flipkart,1000-5000,Mobile,Credit Card,Weekly,20%,Groceries
+U6042,0-18,Female,Amazon,5000-10000,Laptop,Credit Card,Weekly,10%,Groceries
+U5159,31-50,Female,Flipkart,5000-10000,Tablet,UPI,Weekly,30%,Clothing
+U4445,19-30,Female,Flipkart,1000-5000,Laptop,UPI,Weekly,10%,Electronics
+U3922,0-18,Male,Myntra,10000+,Tablet,UPI,Monthly,20%,Groceries
+U1863,31-50,Female,Amazon,1000-5000,Mobile,UPI,Daily,10%,Groceries
+U6068,31-50,Male,Amazon,1000-5000,Mobile,Credit Card,Daily,10%,Groceries
+U9075,19-30,Female,Myntra,5000-10000,Mobile,UPI,Daily,20%,Clothing
+U8678,31-50,Male,Amazon,5000-10000,Laptop,Credit Card,Daily,10%,Groceries
+U7251,19-30,Male,Myntra,10000+,Mobile,Credit Card,Daily,30%,Groceries
+U3324,31-50,Male,Myntra,5000-10000,Mobile,UPI,Monthly,30%,Groceries
+U1192,19-30,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U1215,0-18,Female,Flipkart,1000-5000,Laptop,UPI,Monthly,10%,Clothing
+U8181,0-18,Female,Myntra,10000+,Tablet,Credit Card,Daily,30%,Electronics
+U4893,31-50,Female,Amazon,10000+,Laptop,Cash on Delivery,Daily,20%,Electronics
+U5260,0-18,Male,Amazon,5000-10000,Mobile,Credit Card,Monthly,20%,Groceries
+U9534,31-50,Female,Amazon,10000+,Mobile,UPI,Daily,20%,Electronics
+U9198,19-30,Female,Myntra,10000+,Laptop,Cash on Delivery,Daily,10%,Clothing
+U5953,19-30,Male,Amazon,10000+,Tablet,Cash on Delivery,Weekly,30%,Groceries
+U2867,19-30,Male,Myntra,1000-5000,Tablet,UPI,Weekly,10%,Groceries
+U4186,0-18,Female,Myntra,1000-5000,Mobile,Cash on Delivery,Daily,30%,Clothing
+U6343,19-30,Male,Myntra,5000-10000,Mobile,Credit Card,Daily,10%,Clothing
+U2999,19-30,Female,Amazon,5000-10000,Mobile,Credit Card,Weekly,30%,Electronics
+U5016,31-50,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,20%,Clothing
+U9318,19-30,Male,Flipkart,5000-10000,Laptop,Credit Card,Daily,30%,Clothing
+U7767,31-50,Male,Myntra,1000-5000,Tablet,Credit Card,Weekly,30%,Clothing
+U7696,0-18,Male,Myntra,10000+,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U9657,31-50,Female,Myntra,10000+,Mobile,UPI,Monthly,20%,Electronics
+U7107,31-50,Male,Flipkart,10000+,Laptop,Cash on Delivery,Daily,10%,Groceries
+U5724,19-30,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,30%,Groceries
+U7997,0-18,Male,Flipkart,1000-5000,Tablet,Credit Card,Daily,10%,Clothing
+U2775,19-30,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,20%,Clothing
+U5625,19-30,Female,Myntra,5000-10000,Laptop,Cash on Delivery,Monthly,20%,Electronics
+U4321,19-30,Female,Amazon,10000+,Laptop,UPI,Monthly,30%,Clothing
+U4712,19-30,Female,Flipkart,10000+,Laptop,Credit Card,Daily,30%,Groceries
+U1430,31-50,Female,Flipkart,5000-10000,Mobile,Cash on Delivery,Weekly,30%,Groceries
+U4832,31-50,Male,Myntra,5000-10000,Tablet,UPI,Daily,20%,Groceries
+U8076,0-18,Female,Myntra,1000-5000,Laptop,Cash on Delivery,Monthly,30%,Groceries
+U9934,0-18,Female,Myntra,1000-5000,Mobile,UPI,Daily,10%,Electronics
+U1297,19-30,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Daily,20%,Clothing
+U4846,0-18,Female,Myntra,10000+,Tablet,UPI,Monthly,30%,Groceries
+U3297,0-18,Female,Amazon,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U8392,19-30,Female,Amazon,1000-5000,Mobile,Credit Card,Weekly,20%,Groceries
+U3243,31-50,Male,Myntra,10000+,Laptop,UPI,Weekly,10%,Groceries
+U2781,31-50,Female,Myntra,10000+,Mobile,Cash on Delivery,Monthly,10%,Groceries
+U5140,0-18,Female,Myntra,5000-10000,Mobile,UPI,Monthly,20%,Clothing
+U3959,0-18,Male,Myntra,1000-5000,Laptop,UPI,Monthly,20%,Electronics
+U2216,19-30,Male,Flipkart,5000-10000,Mobile,Credit Card,Monthly,10%,Clothing
+U5338,31-50,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Daily,10%,Clothing
+U2476,31-50,Female,Flipkart,10000+,Tablet,Credit Card,Monthly,20%,Electronics
+U5396,0-18,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Monthly,30%,Clothing
+U2001,31-50,Male,Amazon,5000-10000,Mobile,UPI,Weekly,30%,Clothing
+U2061,31-50,Male,Flipkart,5000-10000,Tablet,Credit Card,Monthly,10%,Electronics
+U8308,19-30,Female,Flipkart,10000+,Laptop,UPI,Daily,10%,Clothing
+U5977,31-50,Female,Myntra,1000-5000,Mobile,Credit Card,Daily,20%,Electronics
+U4090,19-30,Female,Amazon,10000+,Tablet,Cash on Delivery,Daily,20%,Electronics
+U9255,31-50,Male,Flipkart,5000-10000,Mobile,UPI,Daily,10%,Clothing
+U2757,0-18,Male,Myntra,1000-5000,Mobile,UPI,Monthly,20%,Groceries
+U3183,31-50,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,20%,Clothing
+U8737,31-50,Male,Flipkart,5000-10000,Tablet,UPI,Weekly,10%,Clothing
+U6352,0-18,Male,Myntra,1000-5000,Laptop,UPI,Daily,10%,Clothing
+U2149,19-30,Male,Myntra,1000-5000,Laptop,UPI,Daily,10%,Clothing
+U4983,31-50,Female,Myntra,5000-10000,Laptop,Credit Card,Monthly,20%,Electronics
+U7679,31-50,Female,Myntra,10000+,Mobile,UPI,Daily,30%,Electronics
+U3666,31-50,Male,Flipkart,10000+,Mobile,Cash on Delivery,Monthly,10%,Groceries
+U4583,0-18,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Weekly,10%,Electronics
+U3088,19-30,Male,Amazon,1000-5000,Mobile,Cash on Delivery,Monthly,10%,Groceries
+U2761,0-18,Male,Myntra,5000-10000,Laptop,UPI,Weekly,10%,Groceries
+U1445,19-30,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,30%,Electronics
+U8332,19-30,Female,Myntra,1000-5000,Tablet,Cash on Delivery,Weekly,10%,Clothing
+U4645,31-50,Female,Myntra,10000+,Laptop,Cash on Delivery,Daily,20%,Clothing
+U2694,19-30,Male,Amazon,10000+,Mobile,Credit Card,Monthly,10%,Clothing
+U8760,19-30,Male,Flipkart,1000-5000,Laptop,UPI,Daily,30%,Groceries
+U7598,0-18,Male,Myntra,5000-10000,Mobile,Credit Card,Monthly,30%,Clothing
+U9717,19-30,Female,Amazon,10000+,Tablet,Cash on Delivery,Daily,20%,Clothing
+U3580,19-30,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,20%,Groceries
+U3765,31-50,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Monthly,20%,Groceries
+U2546,0-18,Female,Amazon,5000-10000,Laptop,UPI,Daily,20%,Clothing
+U3780,19-30,Male,Myntra,10000+,Laptop,Credit Card,Monthly,30%,Electronics
+U7676,0-18,Female,Flipkart,10000+,Laptop,Cash on Delivery,Weekly,10%,Clothing
+U3039,31-50,Male,Myntra,10000+,Tablet,Cash on Delivery,Weekly,10%,Clothing
+U8787,0-18,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Daily,10%,Clothing
+U6171,31-50,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Groceries
+U3981,0-18,Female,Myntra,5000-10000,Mobile,Credit Card,Monthly,20%,Electronics
+U4790,19-30,Female,Myntra,1000-5000,Mobile,UPI,Monthly,20%,Electronics
+U1937,19-30,Female,Flipkart,5000-10000,Tablet,Credit Card,Monthly,20%,Groceries
+U3282,31-50,Male,Myntra,10000+,Tablet,UPI,Monthly,30%,Clothing
+U1278,31-50,Female,Amazon,10000+,Mobile,Cash on Delivery,Daily,10%,Clothing
+U3020,0-18,Male,Amazon,10000+,Laptop,Cash on Delivery,Monthly,30%,Groceries
+U4898,0-18,Female,Flipkart,10000+,Tablet,Credit Card,Monthly,10%,Electronics
+U4226,19-30,Female,Flipkart,10000+,Laptop,Credit Card,Daily,30%,Groceries
+U7918,31-50,Male,Myntra,1000-5000,Tablet,UPI,Monthly,10%,Groceries
+U9949,31-50,Male,Myntra,10000+,Laptop,Cash on Delivery,Monthly,20%,Clothing
+U8503,19-30,Female,Amazon,5000-10000,Mobile,Credit Card,Monthly,10%,Clothing
+U9852,0-18,Female,Amazon,10000+,Laptop,UPI,Daily,10%,Clothing
+U4822,31-50,Female,Myntra,5000-10000,Tablet,UPI,Daily,30%,Groceries
+U9911,19-30,Male,Flipkart,10000+,Laptop,Cash on Delivery,Monthly,30%,Groceries
+U7790,0-18,Female,Flipkart,1000-5000,Mobile,UPI,Weekly,30%,Clothing
+U5123,0-18,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Weekly,10%,Groceries
+U7412,0-18,Female,Amazon,5000-10000,Mobile,Cash on Delivery,Daily,10%,Groceries
+U3852,19-30,Female,Flipkart,1000-5000,Tablet,Credit Card,Daily,30%,Electronics
+U4382,0-18,Male,Amazon,5000-10000,Tablet,UPI,Weekly,20%,Electronics
+U9070,0-18,Male,Amazon,10000+,Mobile,UPI,Daily,10%,Clothing
+U6489,19-30,Male,Flipkart,10000+,Laptop,UPI,Weekly,20%,Groceries
+U6730,19-30,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U1957,31-50,Male,Flipkart,1000-5000,Tablet,Credit Card,Daily,30%,Clothing
+U9949,0-18,Female,Amazon,5000-10000,Mobile,UPI,Weekly,30%,Electronics
+U8753,31-50,Male,Flipkart,5000-10000,Tablet,UPI,Daily,30%,Clothing
+U6821,31-50,Male,Flipkart,10000+,Mobile,Cash on Delivery,Daily,10%,Electronics
+U7063,19-30,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Daily,10%,Clothing
+U6252,0-18,Female,Amazon,5000-10000,Laptop,Credit Card,Weekly,30%,Clothing
+U8315,19-30,Male,Amazon,1000-5000,Laptop,Cash on Delivery,Monthly,10%,Groceries
+U7657,0-18,Male,Myntra,1000-5000,Tablet,Cash on Delivery,Monthly,10%,Groceries
+U5338,31-50,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Monthly,10%,Clothing
+U9554,0-18,Male,Myntra,5000-10000,Tablet,Credit Card,Weekly,30%,Clothing
+U3733,0-18,Female,Flipkart,10000+,Mobile,Credit Card,Daily,30%,Electronics
+U8681,31-50,Female,Amazon,5000-10000,Mobile,Credit Card,Monthly,20%,Clothing
+U8825,0-18,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Weekly,10%,Electronics
+U6215,0-18,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,10%,Clothing
+U9338,0-18,Female,Flipkart,1000-5000,Tablet,Credit Card,Weekly,10%,Electronics
+U3694,31-50,Male,Flipkart,5000-10000,Laptop,Cash on Delivery,Daily,30%,Groceries
+U8910,31-50,Male,Myntra,5000-10000,Laptop,Cash on Delivery,Weekly,30%,Groceries
+U2386,19-30,Male,Myntra,10000+,Mobile,UPI,Weekly,10%,Clothing
+U5488,19-30,Male,Flipkart,1000-5000,Laptop,UPI,Weekly,30%,Clothing
+U2972,0-18,Female,Myntra,5000-10000,Tablet,Credit Card,Monthly,20%,Clothing
+U1554,31-50,Male,Amazon,10000+,Mobile,UPI,Daily,20%,Groceries
+U9951,0-18,Male,Amazon,1000-5000,Tablet,Credit Card,Daily,20%,Clothing
+U4071,31-50,Female,Flipkart,5000-10000,Laptop,Cash on Delivery,Weekly,20%,Electronics
+U1865,31-50,Male,Amazon,1000-5000,Mobile,Credit Card,Weekly,30%,Groceries
+U7313,0-18,Female,Flipkart,10000+,Tablet,UPI,Weekly,10%,Clothing
+U6447,31-50,Male,Flipkart,5000-10000,Laptop,UPI,Monthly,30%,Electronics
+U3770,31-50,Male,Flipkart,1000-5000,Mobile,Credit Card,Monthly,20%,Clothing
+U5342,0-18,Male,Myntra,10000+,Laptop,UPI,Weekly,30%,Electronics
+U5925,19-30,Male,Amazon,10000+,Tablet,UPI,Daily,30%,Electronics
+U2826,31-50,Male,Amazon,10000+,Tablet,UPI,Monthly,30%,Clothing
+U9594,0-18,Male,Myntra,1000-5000,Mobile,Credit Card,Monthly,20%,Electronics
+U6599,0-18,Male,Amazon,10000+,Tablet,Credit Card,Monthly,20%,Groceries
+U5951,0-18,Male,Amazon,10000+,Mobile,Cash on Delivery,Weekly,20%,Clothing
+U9400,19-30,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,10%,Clothing
+U6520,31-50,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U2522,0-18,Male,Myntra,10000+,Mobile,Credit Card,Daily,30%,Groceries
+U7399,19-30,Female,Myntra,1000-5000,Mobile,Credit Card,Weekly,10%,Clothing
+U6170,19-30,Female,Amazon,10000+,Laptop,Cash on Delivery,Monthly,10%,Groceries
+U1032,19-30,Female,Flipkart,10000+,Mobile,Credit Card,Monthly,20%,Groceries
+U9624,19-30,Female,Flipkart,5000-10000,Mobile,UPI,Daily,30%,Groceries
+U3729,19-30,Male,Myntra,10000+,Tablet,UPI,Weekly,30%,Electronics
+U8371,19-30,Female,Myntra,5000-10000,Mobile,Credit Card,Daily,20%,Electronics
+U3893,19-30,Male,Flipkart,1000-5000,Tablet,UPI,Weekly,10%,Electronics
+U5815,19-30,Female,Amazon,10000+,Laptop,Cash on Delivery,Monthly,10%,Electronics
+U2921,0-18,Female,Flipkart,10000+,Tablet,UPI,Monthly,10%,Clothing
+U4510,31-50,Female,Amazon,10000+,Tablet,Credit Card,Weekly,10%,Clothing
+U9853,31-50,Male,Flipkart,5000-10000,Laptop,Credit Card,Daily,10%,Electronics
+U6859,0-18,Female,Amazon,10000+,Laptop,Cash on Delivery,Monthly,20%,Clothing
+U4275,19-30,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Daily,10%,Electronics
+U4813,31-50,Male,Flipkart,10000+,Tablet,Cash on Delivery,Daily,30%,Clothing
+U6907,31-50,Male,Myntra,5000-10000,Laptop,Credit Card,Weekly,30%,Clothing
+U4196,31-50,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Monthly,30%,Electronics
+U4317,31-50,Female,Myntra,10000+,Tablet,Cash on Delivery,Daily,10%,Groceries
+U8050,0-18,Male,Myntra,1000-5000,Mobile,UPI,Daily,30%,Groceries
+U6078,31-50,Male,Amazon,5000-10000,Laptop,Cash on Delivery,Daily,10%,Electronics
+U4788,19-30,Female,Flipkart,10000+,Mobile,Credit Card,Weekly,10%,Electronics
+U8444,31-50,Male,Flipkart,1000-5000,Tablet,UPI,Weekly,30%,Groceries
+U6326,19-30,Male,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,20%,Groceries
+U1829,0-18,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Weekly,20%,Groceries
+U4724,31-50,Female,Amazon,10000+,Tablet,UPI,Daily,20%,Electronics
+U7469,0-18,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Daily,10%,Electronics
+U1966,31-50,Female,Flipkart,1000-5000,Mobile,Cash on Delivery,Weekly,20%,Groceries
+U2354,0-18,Male,Amazon,5000-10000,Mobile,Credit Card,Monthly,10%,Clothing
+U4178,0-18,Female,Myntra,1000-5000,Laptop,Credit Card,Daily,10%,Groceries
+U2108,0-18,Male,Myntra,1000-5000,Laptop,UPI,Monthly,30%,Groceries
+U3046,0-18,Male,Myntra,10000+,Mobile,UPI,Monthly,10%,Groceries
+U2392,31-50,Male,Myntra,10000+,Mobile,Cash on Delivery,Daily,20%,Groceries
+U8461,19-30,Female,Myntra,1000-5000,Mobile,UPI,Weekly,10%,Groceries
+U3390,31-50,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Monthly,20%,Groceries
+U7772,31-50,Male,Flipkart,1000-5000,Laptop,UPI,Daily,20%,Electronics
+U5896,31-50,Female,Myntra,5000-10000,Mobile,Credit Card,Daily,30%,Groceries
+U6413,31-50,Male,Myntra,1000-5000,Laptop,Cash on Delivery,Weekly,10%,Groceries
+U7239,31-50,Female,Amazon,1000-5000,Laptop,UPI,Weekly,10%,Clothing
+U1242,31-50,Male,Myntra,1000-5000,Laptop,Cash on Delivery,Weekly,10%,Clothing
+U9545,19-30,Male,Flipkart,10000+,Mobile,Credit Card,Monthly,30%,Electronics
+U9562,31-50,Female,Flipkart,1000-5000,Laptop,Credit Card,Monthly,20%,Electronics
+U9337,19-30,Male,Amazon,1000-5000,Laptop,Credit Card,Monthly,10%,Groceries
+U2102,19-30,Female,Myntra,1000-5000,Tablet,Credit Card,Daily,10%,Clothing
+U4578,0-18,Male,Flipkart,5000-10000,Tablet,Credit Card,Monthly,20%,Clothing
+U6761,0-18,Male,Amazon,1000-5000,Tablet,UPI,Monthly,30%,Groceries
+U8582,19-30,Male,Myntra,10000+,Tablet,Cash on Delivery,Weekly,10%,Groceries
+U3132,31-50,Female,Amazon,1000-5000,Laptop,Cash on Delivery,Daily,30%,Electronics
+U8999,19-30,Male,Myntra,10000+,Laptop,Credit Card,Daily,10%,Groceries
+U8589,31-50,Male,Flipkart,5000-10000,Mobile,Cash on Delivery,Weekly,10%,Groceries
+U3688,31-50,Female,Amazon,5000-10000,Tablet,Cash on Delivery,Daily,20%,Clothing
+U4511,31-50,Male,Amazon,1000-5000,Laptop,UPI,Weekly,10%,Electronics
+U5903,31-50,Male,Myntra,5000-10000,Tablet,Credit Card,Monthly,10%,Clothing
+U8019,19-30,Female,Amazon,1000-5000,Laptop,Credit Card,Monthly,10%,Groceries
+U1834,19-30,Female,Myntra,10000+,Laptop,UPI,Monthly,10%,Electronics
+U8784,19-30,Male,Flipkart,10000+,Laptop,Credit Card,Daily,20%,Groceries
+U5164,0-18,Male,Flipkart,10000+,Mobile,UPI,Daily,10%,Groceries
+U4687,31-50,Male,Flipkart,1000-5000,Laptop,Cash on Delivery,Weekly,10%,Electronics
+U5555,19-30,Male,Flipkart,10000+,Laptop,Credit Card,Weekly,30%,Electronics
+U8484,19-30,Female,Amazon,1000-5000,Mobile,Cash on Delivery,Weekly,20%,Groceries
+U4970,19-30,Female,Flipkart,5000-10000,Laptop,UPI,Monthly,20%,Electronics
+U2747,19-30,Male,Amazon,5000-10000,Tablet,UPI,Weekly,30%,Clothing
+U7147,31-50,Male,Myntra,1000-5000,Mobile,UPI,Weekly,20%,Electronics
+U5807,0-18,Female,Myntra,10000+,Laptop,Cash on Delivery,Monthly,20%,Groceries
+U9033,0-18,Female,Amazon,10000+,Laptop,Cash on Delivery,Weekly,30%,Electronics
+U4063,0-18,Female,Flipkart,10000+,Laptop,Credit Card,Daily,30%,Clothing
+U2264,31-50,Male,Myntra,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Electronics
+U1132,31-50,Female,Flipkart,5000-10000,Tablet,Cash on Delivery,Monthly,10%,Clothing
+U3252,0-18,Male,Myntra,5000-10000,Laptop,UPI,Daily,10%,Clothing
